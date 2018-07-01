@@ -22,7 +22,7 @@ export default class App extends React.Component {
         title={item.text}
         image={{uri: item.uri}}>
 
-        <Text style={{marginBottom: 10}}>Here HEre HEre</Text>
+        <Text style={{marginBottom: 10}}>Here HEre HEree</Text>
         <Button
           icon={{name: 'code'}}
           backgroundColor="#450395"
